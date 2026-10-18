@@ -2,6 +2,8 @@
 
 My personal portfolio website — a responsive, single-page site where I introduce myself, show the skills I'm building, and share the projects I've worked on.
 
+**Live:** [https://wazida.vercel.app/](https://wazida.vercel.app/)
+
 I built it with Next.js (App Router), React, TypeScript, and Tailwind CSS. There's no backend: the contact section just opens your mail app, and all the content on the site comes from a single data file.
 
 ## What's on the site
@@ -71,7 +73,7 @@ There's some placeholder content I still need to sort out:
 
 ## Deploying
 
-I deploy mine on Vercel — either by importing the repo at [vercel.com/new](https://vercel.com/new) or running:
+I deploy mine on Vercel — the site is live at [https://wazida.vercel.app/](https://wazida.vercel.app/). To deploy your own copy, either import the repo at [vercel.com/new](https://vercel.com/new) or run:
 
 ```bash
 npx vercel
