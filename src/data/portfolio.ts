@@ -228,7 +228,7 @@ export const projects: Project[] = [
         description: "A Bengali-language news portal featuring headlines, featured stories, and category-based news in a clean and organized interface.",
         longDescription: "A Bengali-language news portal featuring headlines, featured stories, and category-based news in a clean and organized interface.",
         technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-        liveUrl: "https://bangla-news-six.vercel.app/",
+        liveUrl: "https://bangla-news-wfbr.vercel.app/",
         githubUrl: "https://github.com/wazida-in-code/bangla-news",
         image: "/images/Bangla-News.png",
         features: [
